@@ -71,9 +71,9 @@ This project presents an interactive Power BI dashboard analyzing the sales perf
 
 ## 📸 Screenshots
 
-| Overview Dashboard | Detailed Chart | Sales by Region |
-|--------------------|----------------|-----------------|
-| ![Dashboard]() | 
+| Overview Dashboard | 
+|--------------------|
+| [Dashboard] (https://github.com/aayushigupta2504/Adidas-Sales-Analysis/blob/main/AdidasSalesAnalysis.png) | 
 
 ---
 
